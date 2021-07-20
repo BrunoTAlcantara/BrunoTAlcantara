@@ -2,7 +2,7 @@
 
 ## Bruno Theodoro
 
-**React Software Engineer**
+**Software Engineer**
 
 Enthusiast of the best web & mobile development technologies.
 
