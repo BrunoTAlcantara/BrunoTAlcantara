@@ -1,22 +1,22 @@
 
-#### Bruno Theodoro
+## Bruno Theodoro
+**React Software Engineer**
 
-React Software Engineer
+##
 
 Enthusiast of the best web & mobile development technologies.
+
+
 
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/brunotalcantara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brunotalcantara/" target="_blank"><img src="https://img.shields.io/badge/-email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brunotalcantara/" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+ ##
+  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BrunoTAlcantara&show_icons=true&include_all_commits=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTAlcantara&show_icons=true&layout=compact&hide=php,html&langs_count=6)
-
-
-
-
-
-
 
 
 ##
