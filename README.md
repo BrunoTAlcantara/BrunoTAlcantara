@@ -1,5 +1,6 @@
 
 ## Bruno Theodoro
+
 **React Software Engineer**
 
 ##
