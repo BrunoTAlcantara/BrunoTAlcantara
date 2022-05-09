@@ -10,7 +10,7 @@
 <a href="https://api.whatsapp.com/send?phone=5511971944409" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
 
-#Tecnologias que utilizo
+# Tecnologias que utilizo
   
 <div style="display: inline_block">
 
