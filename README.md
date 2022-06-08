@@ -2,7 +2,7 @@
 
 # 🖖🏻  Olá! Meu nome é Bruno Theodoro!  🖖
 
-* Eu sou um Desenvolvedor Fullstack usando como principal linguagem de programação o Javascript. Atualmente estou finalizando minha faculdade de Sistemas de Informação na Faculdade do Estado de Minas Gerais - UEMG e trabalhando em projetos pessoais.
+* Eu sou um Desenvolvedor Front-End | React | ReacJs usando como principal linguagem de programação o Javascript. Atualmente estou finalizando minha faculdade de Sistemas de Informação na Faculdade do Estado de Minas Gerais - UEMG e trabalhando em projetos pessoais.
  
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/brunotalcantara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
