@@ -55,7 +55,6 @@
   ---
   
 
-![Bruno Theodoro  github stats](https://github-readme-stats.vercel.app/api?username=brunotalcantara&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotalcantara&layout=compact&theme=radical)](https://github.com/BrunoTAlcantara/github-readme-stats)
 
 
