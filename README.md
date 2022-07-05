@@ -30,9 +30,12 @@
 *  Data
 
 <div style="display: inline_block">
+  
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
@@ -50,8 +53,8 @@
   ---
   
 
-![Bruno Theodoro  github stats](https://github-readme-stats.vercel.app/api?username=BrunoTAlcantara1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTAlcantara1&layout=compact&theme=radical)](https://github.com/BrunoTAlcantara/github-readme-stats)
+![Bruno Theodoro  github stats](https://github-readme-stats.vercel.app/api?username=brunotalcantara&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotalcantara&layout=compact&theme=radical)](https://github.com/BrunoTAlcantara/github-readme-stats)
 
 
 
