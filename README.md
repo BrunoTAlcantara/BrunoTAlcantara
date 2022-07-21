@@ -6,6 +6,8 @@
 
 ## 💻 Projects
 * ### [**CRUD de produtos - S.O.L.I.D - NODE JS**](https://github.com/BrunoTAlcantara/back-end-node) 
+* ### [**CRUD de produtos - FRONT - REACTJS**](https://github.com/BrunoTAlcantara/Front-React) 
+
 
    
 
