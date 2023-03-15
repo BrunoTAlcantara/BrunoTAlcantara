@@ -3,8 +3,9 @@
 # 🖖🏻  Olá! Bem vindo ao meu Perfil do GitHub!  🖖
 
 ## 💻 Principais Projetos Back-End
-* ### [**API - S.O.L.I.D - TYPESCRIPT - NODE JS**](https://github.com/BrunoTAlcantara/back-end-node) 
-* ### [**API - JAVA - SPRING BOOT**](https://github.com/BrunoTAlcantara/BACK-END-JAVA) 
+* ### [**API GESTAO DE INVESTIMENTOS - JAVA - SPRING BOOT**](https://github.com/BrunoTAlcantara/BACK-END-JAVA) 
+* ### [**API PRODUTOS - S.O.L.I.D - TYPESCRIPT - NODE JS**](https://github.com/BrunoTAlcantara/back-end-node) 
+
 
 ## 💻 Principais Projetos FRONT-End
 * ### [**CRUD de produtos - FRONT - REACTJS**](https://github.com/BrunoTAlcantara/Front-React) 
