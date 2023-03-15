@@ -6,21 +6,11 @@
 * ### [**API - S.O.L.I.D - TYPESCRIPT - NODE JS**](https://github.com/BrunoTAlcantara/back-end-node) 
 * ### [**API - S.O.L.I.D - JAVA - SPRING BOOT**](https://github.com/BrunoTAlcantara/back-end-node) 
 
-  ## 💻 Principais Projetos FRONT-End
+## 💻 Principais Projetos FRONT-End
 * ### [**CRUD de produtos - FRONT - REACTJS**](https://github.com/BrunoTAlcantara/Front-React) 
 
 
-   
-
-   
-   
 ## ⚡ Technologies
-
-
-
-
-
-
 
 * Back-end
 
@@ -32,9 +22,7 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-
-
-*  Front-end
+* Front-end
 
 <div style="display: inline_block">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -43,14 +31,6 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
-
-  ---
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotalcantara&layout=compact&theme=radical)](https://github.com/BrunoTAlcantara/github-readme-stats)
-
-
-
 
 
 ### 🤝 Connect with me:
