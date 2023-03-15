@@ -2,10 +2,11 @@
 
 # 🖖🏻  Olá! Bem vindo ao meu Perfil do GitHub!  🖖
 
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+## 💻 Principais Projetos Back-End
+* ### [** API - S.O.L.I.D - TYPESCRIPT - NODE JS**](https://github.com/BrunoTAlcantara/back-end-node) 
+* ### [** API - S.O.L.I.D - JAVA - SPRING BOOT**](https://github.com/BrunoTAlcantara/back-end-node) 
 
-## 💻 Projects
-* ### [**CRUD de produtos - S.O.L.I.D - NODE JS**](https://github.com/BrunoTAlcantara/back-end-node) 
+  ## 💻 Principais Projetos FRONT-End
 * ### [**CRUD de produtos - FRONT - REACTJS**](https://github.com/BrunoTAlcantara/Front-React) 
 
 
@@ -24,31 +25,23 @@
 * Back-end
 
 <div style="display: inline_block">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 
-
-##
-
-*  Data
-
-<div style="display: inline_block">
- 
-  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-##
 
 *  Front-end
 
 <div style="display: inline_block">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
 </div>
 
   ---
